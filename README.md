@@ -1,24 +1,6 @@
-# README
+# Devise using hotwire and bootstrap modals
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Using devise with hotwire is not straightfoward yet. In this repo you will find a working example of sing up and sign in features using devise, hotwire and bootstrap modals.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please if you have any doubts please reach out to [hello@eagerworks.com](mailto:hello@eagerworks.com).
+Happy to help!
